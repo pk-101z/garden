@@ -1,8 +1,13 @@
 body {
   background-color: honeydew;
+  display: grid;
+  justify-items: center; 
 }
 
+
+
 .garden {
+  width: 600px;
   border: 2px solid maroon;
   padding: 2px;
   gap: 2px;
